@@ -1,2 +1,2 @@
-# Sorting-Algorithm-using-C-
+# Sorting-Algorithm-using-C++
 All Sorting Algorithm 
